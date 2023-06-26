@@ -1,5 +1,8 @@
 # Mounds
-DSA Project created by me, Trayambak Shrivastava, Aditya Khandelwal, Priyank Sethia and Aryan Bansal
+This is an implementation of Mounds data structure described in the 2014 paper by Yujie Liu and Michael Spear- "Mounds: Array-Based Concurrent Priority Queues"
+This paper can be found in the repository.
+
+DSA Project created by me, Trayambak Shrivastava, Aditya Khandelwal, Priyank Sethia and Aryan Bansal.
 
 In the main function, modify the name of the input file in the line: fptr = fopen("data.txt", "r"); write the file name being used in place of "data.txt".
 
